@@ -80,5 +80,43 @@ html {
 }
 
 
+.menu{
+    background-color: white;
+    position: fixed;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
 
-/*ADD CSS FROM HERE */
+a{
+text-decoration: none;
+color: black;
+    text-shadow: 2px 2px gainsboro;
+}
+
+.links{
+text-align: center;
+display: inline;
+font-family: inherit;
+font-size: 20px;
+padding-left: 34px;
+padding-right: 25px;
+}
+
+.link: hover{
+font-size: 20px;
+    
+}
+
+#contact iframe{
+width: 100%;
+}
+
+#contact{
+background-color: firebrick;
+}
+
+#contact_1{
+color: white;    
+}
